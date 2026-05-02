@@ -41,15 +41,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Pinjaman"
-        tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="133dp" />
-
-    <Button
-        android:id="@+id/button2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Transaksi"
-        tools:layout_editor_absoluteX="155dp"
+        tools:layout_editor_absoluteX="80dp"
         tools:layout_editor_absoluteY="133dp" />
 
     <Button
@@ -57,7 +49,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Log Out"
-        tools:layout_editor_absoluteX="295dp"
+        tools:layout_editor_absoluteX="222dp"
         tools:layout_editor_absoluteY="133dp" />
 
     <TextView
